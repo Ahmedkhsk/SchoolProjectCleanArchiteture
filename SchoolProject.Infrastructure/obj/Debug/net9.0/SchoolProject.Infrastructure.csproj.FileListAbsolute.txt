@@ -1,0 +1,17 @@
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\bin\Debug\net9.0\SchoolProject.Infrastructure.deps.json
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\bin\Debug\net9.0\SchoolProject.Infrastructure.runtimeconfig.json
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\bin\Debug\net9.0\SchoolProject.Infrastructure.dll
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\bin\Debug\net9.0\SchoolProject.Infrastructure.pdb
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\bin\Debug\net9.0\SchoolProject.Data.dll
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\bin\Debug\net9.0\SchoolProject.Data.pdb
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.csproj.AssemblyReference.cache
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.AssemblyInfoInputs.cache
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.AssemblyInfo.cs
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.csproj.CoreCompileInputs.cache
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolPr.D35C9431.Up2Date
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.dll
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\refint\SchoolProject.Infrastructure.dll
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.pdb
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.genruntimeconfig.cache
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\ref\SchoolProject.Infrastructure.dll
