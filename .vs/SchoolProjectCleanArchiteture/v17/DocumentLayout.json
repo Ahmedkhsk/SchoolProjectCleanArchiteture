@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4FE5A9B-2580-4B21-8919-D79B0A9D98A2}|SchoolProject.Service\\SchoolProject.Service.csproj|e:\\.net\\projects\\schoolprojectcleanarchiteture\\schoolproject.service\\abstract\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4FE5A9B-2580-4B21-8919-D79B0A9D98A2}|SchoolProject.Service\\SchoolProject.Service.csproj|solutionrelative:schoolproject.service\\abstract\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA770E99-B102-4F34-A052-B6AACCCD7006}|SchoolProject.Api\\SchoolProject.Api.csproj|e:\\.net\\projects\\schoolprojectcleanarchiteture\\schoolproject.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA770E99-B102-4F34-A052-B6AACCCD7006}|SchoolProject.Api\\SchoolProject.Api.csproj|solutionrelative:schoolproject.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4FE5A9B-2580-4B21-8919-D79B0A9D98A2}|SchoolProject.Service\\SchoolProject.Service.csproj|e:\\.net\\projects\\schoolprojectcleanarchiteture\\schoolproject.service\\moduleservicedependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4FE5A9B-2580-4B21-8919-D79B0A9D98A2}|SchoolProject.Service\\SchoolProject.Service.csproj|solutionrelative:schoolproject.service\\moduleservicedependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECFF4D11-897E-42D2-BF6D-0744DD4F08E8}|SchoolProject.Core\\SchoolProject.Core.csproj|e:\\.net\\projects\\schoolprojectcleanarchiteture\\schoolproject.core\\features\\students\\queries\\handlres\\studenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFF4D11-897E-42D2-BF6D-0744DD4F08E8}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\features\\students\\queries\\handlres\\studenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8D4BF58-5DB9-4E96-8C5A-2266624E5B32}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|e:\\.net\\projects\\schoolprojectcleanarchiteture\\schoolproject.infrastructure\\moduleinfrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8D4BF58-5DB9-4E96-8C5A-2266624E5B32}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|solutionrelative:schoolproject.infrastructure\\moduleinfrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ECFF4D11-897E-42D2-BF6D-0744DD4F08E8}|SchoolProject.Core\\SchoolProject.Core.csproj|e:\\.net\\projects\\schoolprojectcleanarchiteture\\schoolproject.core\\features\\students\\queries\\models\\getstudentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFF4D11-897E-42D2-BF6D-0744DD4F08E8}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\features\\students\\queries\\models\\getstudentlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECFF4D11-897E-42D2-BF6D-0744DD4F08E8}|SchoolProject.Core\\SchoolProject.Core.csproj|e:\\.net\\projects\\schoolprojectcleanarchiteture\\schoolproject.core\\modulecoredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECFF4D11-897E-42D2-BF6D-0744DD4F08E8}|SchoolProject.Core\\SchoolProject.Core.csproj|solutionrelative:schoolproject.core\\modulecoredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA770E99-B102-4F34-A052-B6AACCCD7006}|SchoolProject.Api\\SchoolProject.Api.csproj|e:\\.net\\projects\\schoolprojectcleanarchiteture\\schoolproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA770E99-B102-4F34-A052-B6AACCCD7006}|SchoolProject.Api\\SchoolProject.Api.csproj|solutionrelative:schoolproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C8D4BF58-5DB9-4E96-8C5A-2266624E5B32}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|e:\\.net\\projects\\schoolprojectcleanarchiteture\\schoolproject.infrastructure\\moduleinfrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D4BF58-5DB9-4E96-8C5A-2266624E5B32}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|solutionrelative:schoolproject.infrastructure\\moduleinfrastructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C8D4BF58-5DB9-4E96-8C5A-2266624E5B32}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|e:\\.net\\projects\\schoolprojectcleanarchiteture\\schoolproject.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8D4BF58-5DB9-4E96-8C5A-2266624E5B32}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|solutionrelative:schoolproject.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FE5A9B-2580-4B21-8919-D79B0A9D98A2}|SchoolProject.Service\\SchoolProject.Service.csproj|e:\\.net\\projects\\schoolprojectcleanarchiteture\\schoolproject.service\\moduleservicedependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FE5A9B-2580-4B21-8919-D79B0A9D98A2}|SchoolProject.Service\\SchoolProject.Service.csproj|solutionrelative:schoolproject.service\\moduleservicedependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4FE5A9B-2580-4B21-8919-D79B0A9D98A2}|SchoolProject.Service\\SchoolProject.Service.csproj|e:\\.net\\projects\\schoolprojectcleanarchiteture\\schoolproject.service\\implementation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FE5A9B-2580-4B21-8919-D79B0A9D98A2}|SchoolProject.Service\\SchoolProject.Service.csproj|solutionrelative:schoolproject.service\\implementation\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8D4BF58-5DB9-4E96-8C5A-2266624E5B32}|SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj|e:\\.net\\projects\\schoolprojectcleanarchiteture\\schoolproject.infrastructure\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,76 +54,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Api\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Api\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Api\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolProject.Api\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T23:42:28.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModuleCoreDependencies.cs",
+              "DocumentMoniker": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Core\\ModuleCoreDependencies.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\ModuleCoreDependencies.cs",
+              "ToolTip": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Core\\ModuleCoreDependencies.cs",
+              "RelativeToolTip": "SchoolProject.Core\\ModuleCoreDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T23:34:10.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "StudentHandler.cs",
+              "DocumentMoniker": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Core\\Features\\Students\\Queries\\Handlres\\StudentHandler.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Features\\Students\\Queries\\Handlres\\StudentHandler.cs",
+              "ToolTip": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Core\\Features\\Students\\Queries\\Handlres\\StudentHandler.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Features\\Students\\Queries\\Handlres\\StudentHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T23:25:23.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetStudentListQuery.cs",
+              "DocumentMoniker": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Core\\Features\\Students\\Queries\\Models\\GetStudentListQuery.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Core\\Features\\Students\\Queries\\Models\\GetStudentListQuery.cs",
+              "ToolTip": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Core\\Features\\Students\\Queries\\Models\\GetStudentListQuery.cs",
+              "RelativeToolTip": "SchoolProject.Core\\Features\\Students\\Queries\\Models\\GetStudentListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T23:03:26.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ModuleServiceDependencies.cs",
               "DocumentMoniker": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Service\\ModuleServiceDependencies.cs",
               "RelativeDocumentMoniker": "SchoolProject.Service\\ModuleServiceDependencies.cs",
               "ToolTip": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Service\\ModuleServiceDependencies.cs",
               "RelativeToolTip": "SchoolProject.Service\\ModuleServiceDependencies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T22:18:25.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Service\\Abstract\\IStudentService.cs",
-              "RelativeDocumentMoniker": "SchoolProject.Service\\Abstract\\IStudentService.cs",
-              "ToolTip": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Service\\Abstract\\IStudentService.cs",
-              "RelativeToolTip": "SchoolProject.Service\\Abstract\\IStudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T22:17:23.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ModuleInfrastructureDependencies.cs",
-              "DocumentMoniker": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Infrastructure\\ModuleInfrastructureDependencies.cs",
-              "RelativeDocumentMoniker": "SchoolProject.Infrastructure\\ModuleInfrastructureDependencies.cs",
-              "ToolTip": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Infrastructure\\ModuleInfrastructureDependencies.cs",
-              "RelativeToolTip": "SchoolProject.Infrastructure\\ModuleInfrastructureDependencies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T22:09:29.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Api\\Program.cs",
               "RelativeDocumentMoniker": "SchoolProject.Api\\Program.cs",
               "ToolTip": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Api\\Program.cs",
               "RelativeToolTip": "SchoolProject.Api\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-11T21:55:40.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Service\\Implementation\\StudentService.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Service\\Implementation\\StudentService.cs",
+              "ToolTip": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Service\\Implementation\\StudentService.cs",
+              "RelativeToolTip": "SchoolProject.Service\\Implementation\\StudentService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:31:34.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModuleInfrastructureDependencies.cs",
+              "DocumentMoniker": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Infrastructure\\ModuleInfrastructureDependencies.cs",
+              "RelativeDocumentMoniker": "SchoolProject.Infrastructure\\ModuleInfrastructureDependencies.cs",
+              "ToolTip": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Infrastructure\\ModuleInfrastructureDependencies.cs",
+              "RelativeToolTip": "SchoolProject.Infrastructure\\ModuleInfrastructureDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:09:29.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Infrastructure\\Repositories\\StudentRepository.cs",
               "RelativeDocumentMoniker": "SchoolProject.Infrastructure\\Repositories\\StudentRepository.cs",
               "ToolTip": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Infrastructure\\Repositories\\StudentRepository.cs",
               "RelativeToolTip": "SchoolProject.Infrastructure\\Repositories\\StudentRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-10T14:44:28.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Infrastructure\\Abstract\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "SchoolProject.Infrastructure\\Abstract\\IStudentRepository.cs",
@@ -115,11 +183,12 @@
               "RelativeToolTip": "SchoolProject.Infrastructure\\Abstract\\IStudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:43:02.39Z"
+              "WhenOpened": "2025-08-10T14:43:02.39Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "DBContext.cs",
               "DocumentMoniker": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Infrastructure\\Context\\DBContext.cs",
               "RelativeDocumentMoniker": "SchoolProject.Infrastructure\\Context\\DBContext.cs",
@@ -127,7 +196,8 @@
               "RelativeToolTip": "SchoolProject.Infrastructure\\Context\\DBContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T13:49:02.366Z"
+              "WhenOpened": "2025-08-07T13:49:02.366Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -15,3 +15,4 @@ E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.pdb
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.genruntimeconfig.cache
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\ref\SchoolProject.Infrastructure.dll
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Infrastructure\obj\Debug\net9.0\SchoolProject.Infrastructure.sourcelink.json

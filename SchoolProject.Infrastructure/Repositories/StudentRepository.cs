@@ -2,11 +2,7 @@
 using SchoolProject.Data.Entites;
 using SchoolProject.Infrastructure.Abstract;
 using SchoolProject.Infrastructure.Context;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace SchoolProject.Infrastructure.Repositories
 {

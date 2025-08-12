@@ -155,6 +155,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -355,6 +361,9 @@
             "projectReferences": {
               "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Data\\SchoolProject.Data.csproj": {
                 "projectPath": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Data\\SchoolProject.Data.csproj"
+              },
+              "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj": {
+                "projectPath": "E:\\.Net\\Projects\\SchoolProjectCleanArchiteture\\SchoolProject.Infrastructure\\SchoolProject.Infrastructure.csproj"
               }
             }
           }

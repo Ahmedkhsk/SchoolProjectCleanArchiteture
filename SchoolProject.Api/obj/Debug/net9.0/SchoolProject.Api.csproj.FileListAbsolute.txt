@@ -176,3 +176,6 @@ E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Api\obj\Debug\net9.
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Api\obj\Debug\net9.0\SchoolProject.Api.pdb
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Api\obj\Debug\net9.0\SchoolProject.Api.genruntimeconfig.cache
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Api\obj\Debug\net9.0\ref\SchoolProject.Api.dll
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Api\bin\Debug\net9.0\MediatR.dll
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Api\bin\Debug\net9.0\MediatR.Contracts.dll
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Api\obj\Debug\net9.0\SchoolProject.Api.sourcelink.json

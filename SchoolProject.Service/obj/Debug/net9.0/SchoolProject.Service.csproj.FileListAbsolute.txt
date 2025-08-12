@@ -13,3 +13,6 @@ E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Service\obj\Debug\n
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Service\obj\Debug\net9.0\refint\SchoolProject.Service.dll
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Service\obj\Debug\net9.0\SchoolProject.Service.pdb
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Service\obj\Debug\net9.0\ref\SchoolProject.Service.dll
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Service\bin\Debug\net9.0\SchoolProject.Infrastructure.dll
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Service\bin\Debug\net9.0\SchoolProject.Infrastructure.pdb
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Service\obj\Debug\net9.0\SchoolProject.Service.sourcelink.json

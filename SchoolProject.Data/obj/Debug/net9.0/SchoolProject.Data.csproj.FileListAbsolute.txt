@@ -9,3 +9,4 @@ E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Data\obj\Debug\net9
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Data\obj\Debug\net9.0\refint\SchoolProject.Data.dll
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Data\obj\Debug\net9.0\SchoolProject.Data.pdb
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Data\obj\Debug\net9.0\ref\SchoolProject.Data.dll
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Data\obj\Debug\net9.0\SchoolProject.Data.sourcelink.json

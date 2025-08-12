@@ -15,3 +15,6 @@ E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Core\obj\Debug\net9
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Core\obj\Debug\net9.0\refint\SchoolProject.Core.dll
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Core\obj\Debug\net9.0\SchoolProject.Core.pdb
 E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Core\obj\Debug\net9.0\ref\SchoolProject.Core.dll
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Core\bin\Debug\net9.0\SchoolProject.Infrastructure.dll
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Core\bin\Debug\net9.0\SchoolProject.Infrastructure.pdb
+E:\.Net\Projects\SchoolProjectCleanArchiteture\SchoolProject.Core\obj\Debug\net9.0\SchoolProject.Core.sourcelink.json
